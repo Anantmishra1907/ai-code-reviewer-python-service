@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# OS files
+.DS_Store
